@@ -101,6 +101,6 @@ A personal developer portfolio showcasing my skills, projects, education and cer
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
+- 💼 LinkedIn[https://www.linkedin.com/in/jayasree-bhuma-a7b263280?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 🌐 Portfolio[https://jayasreebhuma.github.io/portfolio/]
+- 📧 Email[bhumajayasree13@gmail.com]
