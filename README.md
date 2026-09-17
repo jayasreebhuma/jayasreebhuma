@@ -90,7 +90,7 @@ A personal developer portfolio showcasing my skills, projects, education and cer
 
 ## 📚 Currently Learning
 
-- Java Full Stack Development
+- Java Full Stack Development 
 - Spring / Spring Boot
 - SQL
 - JavaScript
