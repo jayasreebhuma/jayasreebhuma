@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi, I'm Jayasree Bhuma 👋
 
-<!--
-**jayasreebhuma/jayasreebhuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | B.Tech ECE
 
-Here are some ideas to get you started:
+I'm a B.Tech ECE graduate interested in Java Full Stack Development and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications, learning new technologies, and improving my programming skills through practical projects.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Electronics and Communication Engineering
+- 💻 Interested in Java Full Stack Development and other technologies AI|ML Azure and cybersecurity
+- 🌱 Currently improving Java, JavaScript, SQL and DSA
+- 🚀 Interested in building practical web applications
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+- Java
+- JavaScript
+- Python
+- SQL
+
+### Web Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Database
+
+- MySQL
+- DBMS
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Eclipse
+
+### Other
+
+- Power BI
+- Figma
+- Azure
+- DevOps
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Satellite Image Based Crop Yield Forecasting System
+
+An AI-based project that uses satellite imagery and machine learning/deep learning techniques for crop yield forecasting.
+
+**Technologies:** Python, AI/ML, Image Processing, Database
+
+---
+
+### 🍴 Food Wizard
+
+A restaurant discovery and food ordering website featuring restaurant listings, food categories, ratings and cart functionality.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### 🌐 Personal Portfolio
+
+A personal developer portfolio showcasing my skills, projects, education and certifications.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## 📜 Certifications
+
+- Google Cloud Computing & Generative AI
+- MongoDB Certification
+- Figma Course Completion
+
+---
+
+## 📚 Currently Learning
+
+- Java Full Stack Development
+- Spring / Spring Boot
+- SQL
+- JavaScript
+- Data Structures & Algorithms
+- REST APIs
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 📧 Email
